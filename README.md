@@ -4,8 +4,7 @@ UR3e + YOLOv8 thesis: Python pipeline, URP waypoints, Colab training
 This repository contains:
 - `python_pipeline/` — Python inference + UR3e control (YOLOv8 + RTDE + RealSense D455)
 - `ur3e_waypoints/` — Manual programs from the UR3e teach pendant (`.urp`)
-- `training_notebooks/` — Google Colab training notebooks
-- `results/` — Confusion matrix, sample outputs
+- `YOLOv8/` — Google Colab training notebooks
 
 ## Quickstart
 ```bash

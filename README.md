@@ -1,2 +1,13 @@
 # My-thesis-cobot-vision
 UR3e + YOLOv8 thesis: Python pipeline, URP waypoints, Colab training
+
+This repository contains:
+- `python_pipeline/` — Python inference + UR3e control (YOLOv8 + RTDE + RealSense D455)
+- `ur3e_waypoints/` — Manual programs from the UR3e teach pendant (`.urp`)
+- `training_notebooks/` — Google Colab training notebooks
+- `results/` — Confusion matrix, sample outputs
+
+## Quickstart
+```bash
+pip install -r python_pipeline/requirements.txt
+python python_pipeline/lego_variant_pipeline.py

@@ -11,3 +11,13 @@ This repository contains:
 ```bash
 pip install -r python_pipeline/requirements.txt
 python python_pipeline/lego_variant_pipeline.py
+
+##Hardware
+
+UR3e (S/N 20185300461), Robotiq 2F gripper, Intel RealSense D455
+
+Notes
+
+Large files (e.g., .pt weights) are ignored by default.
+
+Tested on Windows 11 + Python 3.10.

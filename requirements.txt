@@ -1,0 +1,14 @@
+opencv-python
+numpy
+ultralytics
+tensorflow
+torch
+easyocr
+pyrealsense2
+scipy
+pandas
+seaborn
+tqdm
+ur-rtde==1.6.0
+tensorboard
+simple_pid

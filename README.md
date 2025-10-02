@@ -12,7 +12,7 @@ This repository contains:
 pip install -r python_pipeline/requirements.txt
 python python_pipeline/lego_variant_pipeline.py
 
-##Hardware
+## Hardware
 
 UR3e (S/N 20185300461), Robotiq 2F gripper, Intel RealSense D455
 

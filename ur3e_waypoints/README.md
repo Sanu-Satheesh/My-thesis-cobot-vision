@@ -1,1 +1,1 @@
-UR3e waypoint
+ATTENTION: Mycobot.urp is the manual taught waypoints for the pick and place motion for the UR3e cobot placed in the THD DMS lab, if you are working with other cobots placed differently, then you might have to reconfirm the taught waypoints and arm movements before running for safe safe arm movements and to avoid collision if protective stops are not enabled.
